@@ -30,7 +30,7 @@
 // }
 
 //callback function
-// setTineout(function(){
+// setTimeout(function(){
 //     console.log("callback function called");
 // }, 1000);
 // function x(y){

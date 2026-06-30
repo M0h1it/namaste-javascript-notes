@@ -10,7 +10,7 @@ function a(){
 
 function b(){
     var x =100;
-    conssole.log(x);
+    console.log(x);
 }
 
 {
